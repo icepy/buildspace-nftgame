@@ -1,5 +1,5 @@
 {
-  "name": "gameweb3app",
+  "name": "buildspace-nftgame",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icepy/gameweb3app.git"
+    "url": "git+https://github.com/icepy/buildspace-nftgame.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/icepy/gameweb3app/issues"
+    "url": "https://github.com/icepy/buildspace-nftgame/issues"
   },
-  "homepage": "https://github.com/icepy/gameweb3app#readme",
+  "homepage": "https://github.com/icepy/buildspace-nftgame#readme",
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.3",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
